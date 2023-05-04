@@ -1,4 +1,4 @@
-<h1 align="center">Labos Exercize</h1>
+<h1 align="center">Labos Exercise</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-2.3.2-lightgreen">
